@@ -1,1 +1,1 @@
-Xin chao
+print("Xin chao")
